@@ -10,7 +10,6 @@
 - Paragraphs & line breaks
 - Bold 
 - Italic
-- Bold 
 - Strikethrough 
 - Inline code 
 
